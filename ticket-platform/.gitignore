@@ -1,0 +1,50 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+*.jar
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Local
+.env
+.env.local
+application-local.yml
+
+# Node (if any frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.db
+*.sqlite
+
+# Cache
+.cache/
